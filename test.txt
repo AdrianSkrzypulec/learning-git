@@ -1,1 +1,2 @@
 // testowy komentarz
+// pierwszy commit
